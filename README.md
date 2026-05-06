@@ -16,7 +16,7 @@
 
 ---
 
-## 🎯 What is DataFlow AI?
+## 🎯 What is PulseIQ?
 
 DataFlow AI is a production-ready **Business Intelligence & Analytics API** that combines:
 
