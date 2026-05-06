@@ -1,4 +1,4 @@
-# ⚡ DataFlow AI — Business Intelligence & Analytics Platform
+# ⚡ PulseIQ (DataFlow AI — Business Intelligence & Analytics Platform)
 
 <div align="center">
 
