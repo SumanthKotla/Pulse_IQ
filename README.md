@@ -1,4 +1,3 @@
-# Pulse_IQ
 # ⚡ DataFlow AI — Business Intelligence & Analytics Platform
 
 <div align="center">
@@ -241,7 +240,9 @@ MS Business Analytics — University of North Texas
 
 ---
 
+## 📄 License
 
+MIT License — free to use and modify.
 
 ---
 
